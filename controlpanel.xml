@@ -73,7 +73,7 @@
       <Icon x="27" y="3" type="Line" bits="17" />
       <Icon x="28" y="3" type="Line" bits="17" />
       <Icon x="29" y="3" type="Line" bits="17" />
-      <Icon x="30" y="3" type="Turnout" bits="50" Address="422" />
+      <Icon x="30" y="3" type="Turnout" bits="50" Address="422" MasterAddress="415" Inverted="yes" />
       <Icon x="38" y="3" type="Line" bits="68" />
       <Icon x="0" y="4" type="Line" bits="17" />
       <Icon x="1" y="4" type="Line" bits="17" />
@@ -87,7 +87,7 @@
       <Icon x="9" y="4" type="Line" bits="17" />
       <Icon x="10" y="4" type="Line" bits="17" />
       <Icon x="11" y="4" type="Line" bits="17" />
-      <Icon x="12" y="4" type="Turnout" bits="25" Address="124" />
+      <Icon x="12" y="4" type="Turnout" bits="25" Address="124" MasterAddress="123" />
       <Icon x="13" y="4" type="Line" bits="17" />
       <Icon x="14" y="4" type="Line" bits="17" />
       <Icon x="15" y="4" type="Line" bits="17" />
@@ -119,7 +119,7 @@
       <Icon x="2" y="5" type="Line" bits="9" />
       <Icon x="3" y="5" type="Line" bits="17" />
       <Icon x="4" y="5" type="Line" bits="17" />
-      <Icon x="5" y="5" type="Turnout" bits="49" Address="102" />
+      <Icon x="5" y="5" type="Turnout" bits="49" Address="102" MasterAddress="101" />
       <Icon x="6" y="5" type="Turnout" bits="19" Address="111" />
       <Icon x="7" y="5" type="Line" bits="17" />
       <Icon x="8" y="5" type="Line" bits="17" />
@@ -146,10 +146,10 @@
       <Icon x="29" y="5" type="Line" bits="17" />
       <Icon x="30" y="5" type="Line" bits="17" />
       <Icon x="31" y="5" type="Turnout" bits="25" Address="412" />
-      <Icon x="32" y="5" type="Turnout" bits="145" Address="511" />
+      <Icon x="32" y="5" type="Turnout" bits="145" Address="511" MasterAddress="512" />
       <Icon x="33" y="5" type="Line" bits="17" />
       <Icon x="34" y="5" type="Line" bits="17" />
-      <Icon x="35" y="5" type="Turnout" bits="49" Address="514" />
+      <Icon x="35" y="5" type="Turnout" bits="49" Address="514" MasterAddress="513" />
       <Icon x="36" y="5" type="Line" bits="18" />
       <Icon x="38" y="5" type="Line" bits="68" />
       <Icon x="1" y="6" type="Line" bits="136" />
@@ -199,7 +199,7 @@
       <Icon x="27" y="7" type="Line" bits="17" />
       <Icon x="28" y="7" type="Line" bits="17" />
       <Icon x="29" y="7" type="Turnout" bits="152" Address="414" />
-      <Icon x="37" y="7" type="Turnout" bits="70" Address="711" />
+      <Icon x="37" y="7" type="Turnout" bits="70" Address="711" MasterAddress="712" />
       <Icon x="38" y="7" type="Line" bits="68" />
       <Icon x="3" y="8" type="Line" bits="17" />
       <Icon x="4" y="8" type="Line" bits="17" />
@@ -236,7 +236,7 @@
       <Icon x="3" y="10" type="Line" bits="17" />
       <Icon x="4" y="10" type="Line" bits="17" />
       <Icon x="5" y="10" type="Line" bits="17" />
-      <Icon x="37" y="10" type="Turnout" bits="196" Address="714" />
+      <Icon x="37" y="10" type="Turnout" bits="196" Address="714" MasterAddress="713" Inverted="yes" />
       <Icon x="38" y="10" type="Line" bits="68" />
     </Icons>
   </Controlpanel>
