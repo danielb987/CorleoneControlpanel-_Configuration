@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Controlpanel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema/root-1-0.xsd">
-  <Configuration />
+  <Configuration>
+    <TouchscreenConfigs>
+      <TouchscreenConfig>
+        <Position>0</Position>
+        <DevPath>/sys/devices/platform/axi/1000120000.pcie/1f00300000.usb/xhci-hcd.1/usb3/3-1/3-1.2/3-1.2:1.0/0003:27C0:0858.000B/input/input22/event5</DevPath>
+      </TouchscreenConfig>
+      <TouchscreenConfig>
+        <Position>1920</Position>
+        <DevPath>/sys/devices/platform/axi/1000120000.pcie/1f00200000.usb/xhci-hcd.0/usb1/1-1/1-1.2/1-1.2:1.0/0003:27C0:0858.000E/input/input24/event8</DevPath>
+      </TouchscreenConfig>
+    </TouchscreenConfigs>
+  </Configuration>
   <Controlpanel>
     <Icons>
       <Icon x="22" y="0" type="Line" bits="9" />
