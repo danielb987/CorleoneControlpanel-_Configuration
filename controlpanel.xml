@@ -8,7 +8,7 @@
       </TouchscreenConfig>
       <TouchscreenConfig>
         <Position>0</Position>
-        <DevPath>/sys/devices/platform/axi/1000120000.pcie/1f00200000.usb/xhci-hcd.0/usb1/1-1/1-1.2/1-1.2:1.0/0003:27C0:0858.000E/input/input24/event8</DevPath>
+        <DevPath>/sys/devices/platform/axi/1000120000.pcie/1f00200000.usb/xhci-hcd.0/usb1/1-1/1-1.2/1-1.2:1.0/0003:27C0:0858.000D/input/input23/event6</DevPath>
       </TouchscreenConfig>
     </TouchscreenConfigs>
   </Configuration>
